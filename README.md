@@ -67,16 +67,16 @@
     height="36"
     alt="MySQL"
   />
+   <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" 
+     width="36"
+     height="36" 
+     alt="Symfony"
+  />
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
     width="36"
     height="36"
     alt="Git"
-  />
-   <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" 
-     width="36"
-     height="36" 
-     alt="Symfony"
   />
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
@@ -84,7 +84,6 @@
     height="36"
     alt="Figma"
   />
- 
 </div>
 
 <h2 style="font-size: 24px; font-weight: bold">Socials</h2>
