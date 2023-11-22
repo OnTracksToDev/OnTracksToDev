@@ -104,13 +104,3 @@
   /></a>
 </div>
 
-<h2 style="font-size: 24px; font-weight: bold">Badges</h2>
-
-<a href="http://www.github.com/OnTracksToDev"><img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=OnTracksToDev&stroke=000000&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=000000&currStreakLabel=0f172a&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true"
-/></a>
-
-<a href="https://github.com/OnTracksToDev" align="left"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnTracksToDev&langs_count=10&title_color=0f172a&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"
-/></a>
