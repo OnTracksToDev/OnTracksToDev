@@ -1,7 +1,6 @@
 <img src="https://github.com/OnTracksToDev/OnTracksToDev/blob/main/banner.png" alt="banner"/>
 <div style="padding: 20px">
-  <h1 style="font-size: 36px; font-weight: bold">Hi! I'm Djamil SANE</h1>
-  <p style="font-size: 18px">Web & Mobile Developer</p>
+  
   <div style="display: flex; justify-content: space-between; margin-top: 20px">
     <p style="color: #666; font-size: 16px">🌍 Based in Lyon</p>
     <p style="color: #666; font-size: 16px">
