@@ -5,7 +5,7 @@
     <p style="color: #666; font-size: 16px">🌍 Based in Lyon</p>
     <p style="color: #666; font-size: 16px">
       ✉️ Contact me at
-      <a href="mailto:dsmoonweb@gmail.com">dsmoonweb@gmail.com</a>
+      <a href="mailto:dsmoonweb@gmail.com">devdjamil@gmail.com</a>
     </p>
     <p style="color: #666; font-size: 16px">🧠 Lifelong learner</p>
   </div>
